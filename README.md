@@ -5,4 +5,4 @@
     Sound Extensions : MP3
 # copyDOC
     This py is copying only documents from source to destination.
-    Document Extensions : DOC, DOCX, ODT, PDF, XLS, XLSX, PPT, PPTX, TXT
+    Document Extensions : DOC, DOCX, ODT, PDF, XLS, XLSX, PPT, PPTX, TXT 
